@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, viewer! 👋
 
-<!--
-**LauEsGoAm372/LauEsGoAm372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital corner! I am Laura Estefan Gomez Amaya, passionate about unraveling the mysteries of computing and artificial intelligence.
 
-Here are some ideas to get you started:
+## About me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I study Computer Science and Artificial Intelligence.
+🔍 My curiosity leads me to explore areas such as Machine Learning, Web Development, Neural Networks and Data Analysis.
+
+## My Journey 💡
+
+When I started this journey, I had no idea what the world of Computer Science entailed. However, I fell in love with the constant excitement of discovering and delving into the rationale behind the technology we use every day. Here you will find some of my favorite projects, I hope you find them useful!
+
